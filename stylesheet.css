@@ -1,0 +1,49 @@
+.center-it {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.hcenter
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:300px;
+    width: 100vw;
+}
+.links {
+    margin: 0 5px;
+    
+}
+
+.label {
+    width: 200px;
+    display: inline-block;
+    margin: 5px 0;
+}
+
+div input {
+    /*
+    justify-content: center;
+    align-items: center;
+    */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchbar {
+    display: block;
+    padding: 5px 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+.nextline {
+    display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
